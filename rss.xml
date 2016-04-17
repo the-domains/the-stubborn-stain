@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Stubborn Stain]]></title>
+        <description><![CDATA[The Stubborn Stain]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 00:00:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>undefinedit-was-truly-a-big-moment-to-be-part-of-this-honourable-work/index.html</link>
+            <guid isPermaLink="false">1875bbe8-a757-4af1-a422-3694a4a78bcd</guid>
+            <pubDate>Sun, 17 Apr 2016 00:00:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
